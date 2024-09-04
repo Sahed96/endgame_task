@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "https://job-task-server-2-self.vercel.app/api/products";
+const API_URL = "https://job-task-server-4.vercel.app/api/products";
 
 export const fetchProducts = async () => {
   try {
