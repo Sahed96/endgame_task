@@ -1,6 +1,6 @@
 import React from "react";
 import ProductList from "./ProductList";
-import "./styles.css"; // Optional: add your styles here
+import "./styles.css";
 
 const App = () => {
   return (
